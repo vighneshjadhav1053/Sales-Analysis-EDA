@@ -21,8 +21,8 @@ The project includes data preprocessing, data cleaning, exploratory analysis, an
 - Create meaningful visualizations.
 - Extract useful insights from the available data.
 
-**🛠️ Tools & Technologies
-**
+**🛠️ Tools & Technologies**
+
 Tool| Purpose
 Python| Data Analysis
 Pandas| Data Manipulation
@@ -32,8 +32,8 @@ Jupyter Notebook| Development Environment
 Microsoft Excel| Dataset Management
 
 
-**📂 Project Structure
-**
+**📂 Project Structure**
+
 Sales-Analysis-EDA/
 │
 ├── sales_analysis.ipynb
@@ -45,8 +45,8 @@ Sales-Analysis-EDA/
 └── requirements.txt
 
 
-**🔍 Project Workflow
-**
+**🔍 Project Workflow**
+
 1. Data Collection: Loading the sales dataset.
 2. Data Understanding: Exploring dataset structure, columns, and data types.
 3. Data Cleaning: Handling missing values, duplicate records, and data inconsistencies.
@@ -55,8 +55,8 @@ Sales-Analysis-EDA/
 6. Business Insights: Understanding sales performance through data analysis.
    
 
-**📊 Data Visualizations
-**
+**📊 Data Visualizations**
+
 1. Gender vs Zone Count
 
 "Gender vs Zone Count" (images/gender_vs_zone_count.png)
