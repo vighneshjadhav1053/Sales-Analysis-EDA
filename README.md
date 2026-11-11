@@ -3,7 +3,7 @@
 Analyzing Sales Data Using Python to Discover Business Insights
 
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project focuses on performing Sales Data Analysis and Exploratory Data Analysis (EDA) using Python.
 
@@ -12,7 +12,7 @@ The main objective is to explore sales data, identify patterns, understand sales
 The project includes data preprocessing, data cleaning, exploratory analysis, and data visualization using Python libraries.
 
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 - Analyze sales data to understand business performance.
 - Perform data cleaning and preprocessing.
@@ -21,8 +21,8 @@ The project includes data preprocessing, data cleaning, exploratory analysis, an
 - Create meaningful visualizations.
 - Extract useful insights from the available data.
 
-🛠️ Tools & Technologies
-
+**🛠️ Tools & Technologies
+**
 Tool| Purpose
 Python| Data Analysis
 Pandas| Data Manipulation
@@ -32,8 +32,8 @@ Jupyter Notebook| Development Environment
 Microsoft Excel| Dataset Management
 
 
-📂 Project Structure
-
+**📂 Project Structure
+**
 Sales-Analysis-EDA/
 │
 ├── sales_analysis.ipynb
@@ -45,8 +45,8 @@ Sales-Analysis-EDA/
 └── requirements.txt
 
 
-🔍 Project Workflow
-
+**🔍 Project Workflow
+**
 1. Data Collection: Loading the sales dataset.
 2. Data Understanding: Exploring dataset structure, columns, and data types.
 3. Data Cleaning: Handling missing values, duplicate records, and data inconsistencies.
@@ -55,8 +55,8 @@ Sales-Analysis-EDA/
 6. Business Insights: Understanding sales performance through data analysis.
    
 
-📊 Data Visualizations
-
+**📊 Data Visualizations
+**
 1. Gender vs Zone Count
 
 "Gender vs Zone Count" (images/gender_vs_zone_count.png)
@@ -78,7 +78,7 @@ Sales-Analysis-EDA/
 "Orders Heatmap" (images/state_gender_orders_heatmap.png)
 
 
-💡 Key Learnings
+**💡 Key Learnings**
 
 - Practical experience with Python for data analysis.
 - Understanding data cleaning techniques.
@@ -88,7 +88,7 @@ Sales-Analysis-EDA/
 - Understanding how data analysis supports business decisions.
 
 
-⚙️ How to Run This Project
+**⚙️ How to Run This Project**
 
 Step 1: Clone this repository.
 
