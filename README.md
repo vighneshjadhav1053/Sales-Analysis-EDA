@@ -2,6 +2,7 @@
 
 Analyzing Sales Data Using Python to Discover Business Insights
 
+
 📌 Project Overview
 
 This project focuses on performing Sales Data Analysis and Exploratory Data Analysis (EDA) using Python.
@@ -9,6 +10,7 @@ This project focuses on performing Sales Data Analysis and Exploratory Data Anal
 The main objective is to explore sales data, identify patterns, understand sales performance, and extract meaningful insights that can support better business decision-making.
 
 The project includes data preprocessing, data cleaning, exploratory analysis, and data visualization using Python libraries.
+
 
 🎯 Project Objectives
 
@@ -29,6 +31,7 @@ Matplotlib| Data Visualization
 Jupyter Notebook| Development Environment
 Microsoft Excel| Dataset Management
 
+
 📂 Project Structure
 
 Sales-Analysis-EDA/
@@ -41,6 +44,7 @@ Sales-Analysis-EDA/
 ├── README.md
 └── requirements.txt
 
+
 🔍 Project Workflow
 
 1. Data Collection: Loading the sales dataset.
@@ -49,10 +53,30 @@ Sales-Analysis-EDA/
 4. Exploratory Data Analysis: Analyzing sales data to identify patterns and trends.
 5. Data Visualization: Creating charts and graphs to represent findings.
 6. Business Insights: Understanding sales performance through data analysis.
+   
 
-📈 Visualization
+📊 Data Visualizations
 
-The project includes visual analysis such as gender-wise and zone-wise counts to understand patterns in the dataset.
+1. Gender vs Zone Count
+
+"Gender vs Zone Count" (images/gender_vs_zone_count.png)
+
+2. Zone-wise User Distribution
+
+"Zone Distribution" (images/zone_wise_user_distribution.png)
+
+3. Top 10 States by Orders
+
+"Top 10 States" (images/top_10_states_by_orders.png)
+
+4. Age Distribution
+
+"Age Distribution" (images/age_distribution_histogram.png)
+
+5. State vs Gender Orders Heatmap
+
+"Orders Heatmap" (images/state_gender_orders_heatmap.png)
+
 
 💡 Key Learnings
 
@@ -62,6 +86,7 @@ The project includes visual analysis such as gender-wise and zone-wise counts to
 - Performing Exploratory Data Analysis.
 - Creating visualizations using Matplotlib.
 - Understanding how data analysis supports business decisions.
+
 
 ⚙️ How to Run This Project
 
