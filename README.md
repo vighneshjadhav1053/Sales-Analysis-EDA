@@ -1,4 +1,4 @@
-📊 Sales Analysis & Exploratory Data Analysis (EDA)
+**📊 Sales Analysis & Exploratory Data Analysis (EDA)**
 
 Analyzing Sales Data Using Python to Discover Business Insights
 
